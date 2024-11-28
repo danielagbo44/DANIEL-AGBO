@@ -34,7 +34,7 @@ Statistics & Computer Science
 
 University of Agriculture,BN,NG
 
-
+### [Project](https://github.com/danielagbo44/Channels-Performance-Report-Dec-2022-and-Jan-2023.git)
 
 
 ![My Resume](https://github.com/danielagbo44/Channels-Performance-Report-Dec-2022-and-Jan-2023/blob/main/Channels%20Performance%20Report%20PBI%20January%2C%202023_page-0001.jpg)
