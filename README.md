@@ -60,7 +60,7 @@ University of Agriculture,BN,NG
 
 ### Jaiz Bank Plc, Abuja, NG
 
-**Data Analyst || Product Manager Jan 2015–Jul 2023**
+**Data Analyst & Product Manager Jan 2015–Jul 2023**
 
 • Developed comprehensive analytical framework and models to evaluate business performance, resulting in data-driven insights and recommendations.
 
