@@ -34,15 +34,17 @@ Statistics & Computer Science
 
 University of Agriculture,BN,NG
 
-### Project
+## Project
 
-! [Project 1: e-Channel Performance Report ](https://github.com/danielagbo44/Channels-Performance-Report-Dec-2022-and-Jan-2023.git)
+### [Project 1: e-Channel Performance Report ](https://github.com/danielagbo44/Channels-Performance-Report-Dec-2022-and-Jan-2023.git)
 
-
-![My Resume]
-
+### [Project 2: POS-Performance-Metrics-Reports ](https://github.com/danielagbo44/POS-Performance-Metrics-Reports.git)
 
 
+[My Resume]
+
+
+https://github.com/danielagbo44/POS-Performance-Metrics-Reports.git
 
 ## Work Experience
 
