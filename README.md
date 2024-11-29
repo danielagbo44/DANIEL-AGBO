@@ -41,10 +41,9 @@ University of Agriculture,BN,NG
 ### [Project 2: POS-Performance-Metrics-Reports ](https://github.com/danielagbo44/POS-Performance-Metrics-Reports.git)
 
 
-[My Resume]
+### [My Resume]
 
 
-https://github.com/danielagbo44/POS-Performance-Metrics-Reports.git
 
 ## Work Experience
 
